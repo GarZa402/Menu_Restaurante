@@ -12,7 +12,8 @@ Un sistema web completo para la gestión de menús de restaurantes con interfaz 
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-
+## Objetivo
+Este proyecto tiene como objetivo proporcionar una solución completa para la gestión de menús de restaurantes, desde la creación de platos hasta la visualización de los mismos. La aplicación está construida con tecnologías modernas y ofrece una experiencia de usuario intuitiva.
 ## ✨ Características
 
 - **Gestión Completa de Platos**: Crear, leer, actualizar y eliminar platos del menú
@@ -46,6 +47,15 @@ Un sistema web completo para la gestión de menús de restaurantes con interfaz 
 - Python 3.x instalado en tu sistema
 - pip (gestor de paquetes de Python)
 
+## 📱 Capturas de Pantalla
+
+### Vista Desktop
+![Vista Desktop](images/Web.png)
+
+### Vista Mobile
+![Vista Movile](images/Cel.png)
+
+
 ### Pasos de Instalación
 
 1. **Clonar el repositorio**
@@ -77,3 +87,7 @@ pip install flask werkzeug
 ```bash
 python backend.py
 ```
+
+## Creditos
+- 👤 Juan José García Villegas
+- ✉️ jgarcia33@unilasallista.edu.co
